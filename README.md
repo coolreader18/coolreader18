@@ -1,6 +1,6 @@
 #### Heyo
 
-I'm Noah, aka coolreader. I use they/them pronouns, and I'm interested in
+I'm Noa, aka coolreader. I use they/them pronouns, and I'm interested in
 programming languages and compilers, Rust, and systems programming. I'm a core
 contributor and maintainer to
 [RustPython](https://github.com/RustPython/RustPython), a python interpreter
